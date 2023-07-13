@@ -61,15 +61,15 @@ global.ppulsa2 = '082125276167'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '551397508'
+global.nomorown = '503639743'
+global.namebot = 'Rin'
+global.nameown = 'غومونريونغ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['503639743', 'غومونريونغ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
+global.wm = '                「 Rin」' //Main Watermark
+global.wm2 = 'Rin'
+global.wm3 = '❖ Rin'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.titlebot = '✨┊ Rin '
 global.author = global.wm
 
 
